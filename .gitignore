@@ -1,0 +1,5 @@
+.DS_Store
+
+# Local generation sources and QA artifacts are intentionally not published.
+/run/
+/rin-tohsaka/
