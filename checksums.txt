@@ -1,3 +1,4 @@
 56b50d05e683386df09a8dbf8a68b63182d46ad54b6cd4d20a1ced71818e25e1  pets/mochi-kitten/spritesheet.webp
 f22deb7db82a5b118f7379fa7173513c70b918ffd23a878c435505707a500edd  pets/rin-tohsaka/spritesheet.webp
 7a2065e12822ffbd8cbf173cc4f851d93cb8868fa6092627db726d22754f3083  pets/vladilena-milize/spritesheet.webp
+0cfeb8c67335f355f19a6a9255b07f279cc5e1832137970e7dd530b26408cd82  pets/gigi-andalucia/spritesheet.webp
