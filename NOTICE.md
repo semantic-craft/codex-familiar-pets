@@ -1,6 +1,6 @@
 # Rights and attribution notice
 
-Codex Familiar Atelier is an unofficial community project. It is not affiliated with or endorsed by OpenAI, TYPE-MOON, or the *Fate* franchise.
+Codex Familiar Pets is an unofficial community project. It is not affiliated with or endorsed by OpenAI, TYPE-MOON, or the *Fate* franchise.
 
 The Mochi Kitten artwork was created for this project and is shared for personal, non-commercial use only. No broader license is granted unless the repository owner states otherwise in writing.
 

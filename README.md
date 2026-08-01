@@ -1,4 +1,6 @@
-# Codex Familiar Atelier
+# Codex Familiar Pets
+
+*A tiny atelier for custom Codex companions.*
 
 一间为 Codex Desktop 制作桌面使魔的非官方小工坊。这里收录可以直接安装的自定义宠物包；项目名称不限定猫咪，也欢迎角色型、动物型和原创使魔。
 
