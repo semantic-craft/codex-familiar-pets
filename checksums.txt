@@ -2,3 +2,4 @@
 f22deb7db82a5b118f7379fa7173513c70b918ffd23a878c435505707a500edd  pets/rin-tohsaka/spritesheet.webp
 7a2065e12822ffbd8cbf173cc4f851d93cb8868fa6092627db726d22754f3083  pets/vladilena-milize/spritesheet.webp
 0cfeb8c67335f355f19a6a9255b07f279cc5e1832137970e7dd530b26408cd82  pets/gigi-andalucia/spritesheet.webp
+347225acb2ced6b28d4419c3502c8534d8a3dea853a1b68c0a6107cf5c2b236a  pets/gigi-andalucia-anime/spritesheet.webp
