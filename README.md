@@ -13,13 +13,13 @@
 | Mochi Kitten | 姜黄与奶油色原创小猫 | [查看动作表](previews/mochi-kitten.png) | [`pets/mochi-kitten`](pets/mochi-kitten) |
 | Rin Tohsaka | 《Fate/stay night》远坂凛 Q 版同人 | [查看动作表](previews/rin-tohsaka.png) | [`pets/rin-tohsaka`](pets/rin-tohsaka) |
 | Vladilena Milizé | 《86—不存在的战区—》蕾娜军装 Q 版同人 | [查看动作表](previews/vladilena-milize.png) | [`pets/vladilena-milize`](pets/vladilena-milize) |
-| Gigi Andalucia (Chibi) | 《机动战士高达：闪光的哈萨维》琪琪 3.3 头身大脸动画风同人 | [查看动作表](previews/gigi-andalucia-chibi.png) | [`pets/gigi-andalucia-chibi`](pets/gigi-andalucia-chibi) |
+| Gigi Andalucia | 《机动战士高达：闪光的哈萨维》琪琪 3.3 头身大脸动画风同人 | [查看动作表](previews/gigi-andalucia.png) | [`pets/gigi-andalucia`](pets/gigi-andalucia) |
 
 ![Rin Tohsaka contact sheet](previews/rin-tohsaka.png)
 
 ![Vladilena Milizé contact sheet](previews/vladilena-milize.png)
 
-![Gigi Andalucia Chibi contact sheet](previews/gigi-andalucia-chibi.png)
+![Gigi Andalucia contact sheet](previews/gigi-andalucia.png)
 
 ## 安装
 
@@ -31,7 +31,7 @@ cp pets/rin-tohsaka/pet.json "$HOME/.codex/pets/rin-tohsaka/pet.json"
 cp pets/rin-tohsaka/spritesheet.webp "$HOME/.codex/pets/rin-tohsaka/spritesheet.webp"
 ```
 
-安装其他宠物时，把命令中的 `rin-tohsaka` 换成 `mochi-kitten`、`vladilena-milize` 或 `gigi-andalucia-chibi`。如果目标目录已经存在，请先自行备份。
+安装其他宠物时，把命令中的 `rin-tohsaka` 换成 `mochi-kitten`、`vladilena-milize` 或 `gigi-andalucia`。如果目标目录已经存在，请先自行备份。
 
 随后在 Codex Desktop 中打开 **Settings → Pets**，刷新列表并选择新宠物；在任务中使用 `/pet` 可以唤醒或让它休息。
 
