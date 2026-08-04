@@ -8,7 +8,7 @@ The Rin Tohsaka package is non-commercial fan content. Rin Tohsaka, *Fate/stay n
 
 The Vladilena Milizé package is non-commercial fan content. Vladilena Milizé, *86—Eighty Six*, and related names, designs, and intellectual property belong to their respective rights holders. No license to those underlying rights is granted by this repository.
 
-The Gigi Andalucia package is non-commercial fan content. Gigi Andalucia, *Mobile Suit Gundam Hathaway*, and related names, designs, and intellectual property belong to their respective rights holders. No license to those underlying rights is granted by this repository.
+The Gigi Andalucia packages and skin variants are non-commercial fan content. Gigi Andalucia, *Mobile Suit Gundam Hathaway*, and related names, designs, and intellectual property belong to their respective rights holders. No license to those underlying rights is granted by this repository.
 
 The Aoko Aozaki package is non-commercial fan content. Aoko Aozaki, *Witch on the Holy Night*, and related names, designs, and intellectual property belong to their respective rights holders. No license to those underlying rights is granted by this repository.
 

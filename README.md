@@ -14,6 +14,7 @@
 | Rin Tohsaka | 《Fate/stay night》远坂凛 Q 版同人 | [查看动作表](previews/rin-tohsaka.png) | [`pets/rin-tohsaka`](pets/rin-tohsaka) |
 | Vladilena Milizé | 《86—不存在的战区—》蕾娜军装 Q 版同人 | [查看动作表](previews/vladilena-milize.png) | [`pets/vladilena-milize`](pets/vladilena-milize) |
 | Gigi Andalucia | 《机动战士高达：闪光的哈萨维》琪琪 3.3 头身大脸动画风同人 | [查看动作表](previews/gigi-andalucia.png) | [`pets/gigi-andalucia`](pets/gigi-andalucia) |
+| Gigi Andalucia (Night) | 琪琪风衣与墨镜夜间皮肤，采用旅行箱等待及青色终端动作 | [查看动作表](previews/gigi-andalucia-night.png) | [`pets/gigi-andalucia-night`](pets/gigi-andalucia-night) |
 | Aoko Aozaki | 《魔法使之夜》苍崎青子 3.3 头身魔术师动画风同人 | [查看动作表](previews/aoko-aozaki.png) | [`pets/aoko-aozaki`](pets/aoko-aozaki) |
 
 ![Rin Tohsaka contact sheet](previews/rin-tohsaka.png)
@@ -21,6 +22,8 @@
 ![Vladilena Milizé contact sheet](previews/vladilena-milize.png)
 
 ![Gigi Andalucia contact sheet](previews/gigi-andalucia.png)
+
+![Gigi Andalucia Night contact sheet](previews/gigi-andalucia-night.png)
 
 ![Aoko Aozaki contact sheet](previews/aoko-aozaki.png)
 
@@ -34,7 +37,7 @@ cp pets/rin-tohsaka/pet.json "$HOME/.codex/pets/rin-tohsaka/pet.json"
 cp pets/rin-tohsaka/spritesheet.webp "$HOME/.codex/pets/rin-tohsaka/spritesheet.webp"
 ```
 
-安装其他宠物时，把命令中的 `rin-tohsaka` 换成 `mochi-kitten`、`vladilena-milize`、`gigi-andalucia` 或 `aoko-aozaki`。如果目标目录已经存在，请先自行备份。
+安装其他宠物时，把命令中的 `rin-tohsaka` 换成 `mochi-kitten`、`vladilena-milize`、`gigi-andalucia`、`gigi-andalucia-night` 或 `aoko-aozaki`。如果目标目录已经存在，请先自行备份。
 
 随后在 Codex Desktop 中打开 **Settings → Pets**，刷新列表并选择新宠物；在任务中使用 `/pet` 可以唤醒或让它休息。
 
