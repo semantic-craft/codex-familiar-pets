@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(git -C "$(dirname "${BASH_SOURCE[0]}")" rev-parse --show-toplevel)"
+# Package bytes match checksums.txt. A checksum proves byte identity, not animation quality; image checks stay manual.
+shasum -a 256 -c checksums.txt
